@@ -17,7 +17,7 @@ these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-
+https://github.com/Japneetsingh123/Office-projects.git
 ```
 
 2. Open the cloned folder in your preferred code editor, install the required
