@@ -1,0 +1,23 @@
+
+
+.main{
+  display: flex;
+  align-items:center;
+  height: 100vh;
+  background-color:azure;
+  color: whitesmoke;
+  margin:0.5cm;
+}
+
+.main-header{
+  font-size:larger;
+  text-align: center;
+  background-color:aliceblue;
+}
+
+.create-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px !important;
+}
+
